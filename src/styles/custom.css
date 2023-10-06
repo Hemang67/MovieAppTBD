@@ -1,0 +1,25 @@
+.hero_header{
+    height: 30vh;
+    background-image: url("https://wallpaperaccess.com/full/1512237.jpg");
+    background-size: 100% 200%;
+    background-repeat: no-repeat;
+}
+.hero_header_layer{
+    height: 30vh;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+.search_section{
+    display: grid;
+    place-items: center;
+    height: 30vh;
+}
+.btn_search{
+    margin: auto;
+}
+
+
+/* footer */
+
+.btn{
+    border: 0;
+}
