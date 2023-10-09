@@ -35,7 +35,7 @@ const Home = () => {
         <>
             <HeroHeader setSearchString={setSearchString} />
             <div className='container'>
-                <h1 className='text-muted mt-3'>Movies</h1>
+                <h1 className='text-muted mt-3'>All Movies</h1>
                 <hr />
                 <div className='row mt-3'>
                     {

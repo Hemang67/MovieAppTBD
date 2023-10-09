@@ -10,7 +10,7 @@ const HeroHeader = ({setSearchString}) => {
                         <input className='form-control' onChange={(e) => {
                             setSearchString(e.target.value)
                         }} type='text' placeholder='Enter text...'/>
-                        <button className='btn btn_search mt-3'>Search</button>
+                        <button className='btn btn_search mt-3'><i className='fa fa-search mr-1'></i> Search </button>
                     </div>
                 </div>
             </div>
